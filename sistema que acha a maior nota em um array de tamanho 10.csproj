@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>sistema_que_acha_a_maior_nota_em_um_array_de_tamanho_10</RootNamespace>
+  </PropertyGroup>
+
+</Project>
